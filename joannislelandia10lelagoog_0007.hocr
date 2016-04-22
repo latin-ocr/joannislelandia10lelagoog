@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannislelandia10lelagoog/joannislelandia10lelagoog_0007.png"; bbox 0 0 3392 5300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 1595 1432 1766">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 1595 1432 1766">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 1595 1432 1766; baseline 0.004 -42"><span class='ocrx_word' id='word_1_1' title='bbox 242 1595 685 1766; x_wconf 79' lang='lat' dir='ltr'><em>JOANNJS</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 720 1609 1228 1730; x_wconf 74' lang='lat' dir='ltr'><em>-LELANDJ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1430 1689 1432 1702; x_wconf 76' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 213 1873 1569 2747">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 213 1873 1569 2747">
+     <span class='ocr_line' id='line_1_2' title="bbox 259 1873 1176 2079; baseline -0.01 -38"><span class='ocrx_word' id='word_1_4' title='bbox 259 1873 1176 2079; x_wconf 52' lang='grc' dir='ltr'>*ᾸΝΎΙᾳυΑΚΙΙ-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 228 2175 1222 2339; baseline -0.005 -7"><span class='ocrx_word' id='word_1_5' title='bbox 228 2175 1222 2339; x_wconf 50' lang='grc' dir='ltr'>’ΒεΒὼυεΒΜηΝΝηη</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 213 2456 1569 2747; baseline -0.005 -79"><span class='ocrx_word' id='word_1_6' title='bbox 213 2456 1247 2747; x_wconf 63' lang='grc' dir='ltr'>ὀοιιΕςτᾸΝΕοκυΜ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1306 2566 1310 2574; x_wconf 91' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1380 2633 1399 2689; x_wconf 85' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1463 2467 1481 2600; x_wconf 75' lang='lat'>1</span> <span class='ocrx_word' id='word_1_10' title='bbox 1565 2654 1569 2661; x_wconf 84' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 431 2878 1018 2974">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 431 2878 1018 2974">
+     <span class='ocr_line' id='line_1_5' title="bbox 431 2878 1018 2974; baseline -0.007 0"><span class='ocrx_word' id='word_1_11' title='bbox 431 2894 641 2974; x_wconf 73' lang='lat' dir='ltr'><strong>‘somus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 690 2878 1018 2972; x_wconf 65' lang='lat' dir='ltr'><strong>Sne-umus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1700 5300">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1700 5300">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1700 5300; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1700 5300; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
